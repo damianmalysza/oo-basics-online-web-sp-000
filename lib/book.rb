@@ -6,7 +6,7 @@ class Book
   end
 
   def turn_page
-    @page_count = @page_count.to_i + 1
+    puts "Flipping the page...wow, you read fast!"
   end
 
 end
