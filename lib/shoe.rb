@@ -6,4 +6,6 @@ class shoe
   end
 
   attr_accessor :brand, :color, :size, :material, :condition
+
+  
 end
